@@ -92,5 +92,5 @@ Reference
 [1] H. Katara, “Automatic Switching of Street Light,” Int. J. Innov. Technol. Explor. Eng., 
 vol. 8, no. 12S, pp. 135–137, 2019, doi: 10.35940/ijitee.l1041.10812s19.
 [2] “bulbulart203.
-# Implemented by: -HGENIMANA Pacifique
+# Implemented by: -HAGENIMANA Pacifique
 # -IRADUKUNDA Albert
